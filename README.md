@@ -1,7 +1,8 @@
 ---
 description: >-
-  My personal notes for Neil Gershenfeld's course on prototyping - link to the
-  lectures and material were provided to me by professor Gershenfeld
+  My personal notes for Neil Gershenfeld's course on rapid-prototyping of
+  rapid-prototyping machines- link to the lectures and material were provided to
+  me by professor Gershenfeld
 ---
 
 # MAS 865 - Notes and Assignments
